@@ -32,6 +32,8 @@
 
 **Datacenter**: a place that gathers all components of a distributed system.
 
+**Devops**: two skills in one salary.
+
 ## E
 
 **Elasticity**: quality of the budget of a cloud first-time user.
@@ -121,6 +123,8 @@
 ## W
 
 **Warning**: a message similar to an error, only useless.
+
+**Wikipedia**: see *MMORPG*.
 
 ## Y
 
