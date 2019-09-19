@@ -20,6 +20,8 @@
 
 ## C
 
+**C++**: name given to C after it was rendered horrifyingly misshapen through unspeakable torture. A mercy kill would be indicated.
+
 **Chaos monkey**: see *release planning*.
 
 **Cloud**: a system that sends programs to be run by someone else’s computers, which are not always humans from low-income areas.
@@ -103,6 +105,8 @@
 **Startup**: a tech company that can’t be bothered yet with paying the bills.
 
 ## T
+
+**Troll**: someone who spends just as much time as you online and has different opinions.
 
 **Tunnel effect**: consequence of finding out that the light that can be seen when code is about to be delivered belongs to a train.
 
